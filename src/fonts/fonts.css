@@ -1,59 +1,68 @@
 @font-face {
-    font-display: swap;
-    font-family: 'Space Grotesk Frontify';
-    font-style: normal;
-    font-weight: 400;
-    src: url(./SpaceGroteskFrontify-Regular.woff2) format('woff2'),
-        url(./SpaceGroteskFrontify-Regular.woff) format('woff');
+	font-display: swap;
+	font-family: "Space Grotesk Frontify";
+	font-style: normal;
+	font-weight: 400;
+	src:
+		url(./SpaceGroteskFrontify-Regular.woff2) format("woff2"),
+		url(./SpaceGroteskFrontify-Regular.woff) format("woff");
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Space Grotesk Frontify';
-    font-style: normal;
-    font-weight: 500;
-    src: url(./SpaceGroteskFrontify-Medium.woff2) format('woff2'),
-        url(./SpaceGroteskFrontify-Medium.woff) format('woff');
+	font-display: swap;
+	font-family: "Space Grotesk Frontify";
+	font-style: normal;
+	font-weight: 500;
+	src:
+		url(./SpaceGroteskFrontify-Medium.woff2) format("woff2"),
+		url(./SpaceGroteskFrontify-Medium.woff) format("woff");
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Space Grotesk Frontify';
-    font-style: normal;
-    font-weight: 600;
-    src: url(./SpaceGroteskFrontify-SemiBold.woff2) format('woff2'),
-        url(./SpaceGroteskFrontify-SemiBold.woff) format('woff');
+	font-display: swap;
+	font-family: "Space Grotesk Frontify";
+	font-style: normal;
+	font-weight: 600;
+	src:
+		url(./SpaceGroteskFrontify-SemiBold.woff2) format("woff2"),
+		url(./SpaceGroteskFrontify-SemiBold.woff) format("woff");
 }
 
 @font-face {
-    font-display: swap;
-    font-family: 'Space Grotesk Frontify';
-    font-style: normal;
-    font-weight: 700;
-    src: url(./SpaceGroteskFrontify-Bold.woff2) format('woff2'), url(./SpaceGroteskFrontify-Bold.woff) format('woff');
+	font-display: swap;
+	font-family: "Space Grotesk Frontify";
+	font-style: normal;
+	font-weight: 700;
+	src:
+		url(./SpaceGroteskFrontify-Bold.woff2) format("woff2"),
+		url(./SpaceGroteskFrontify-Bold.woff) format("woff");
 }
 
 @font-face {
-    font-family: 'Menlo Regular';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Menlo Regular'), url(./Menlo-Regular.woff) format('woff');
+	font-family: "Menlo Regular";
+	font-style: normal;
+	font-weight: normal;
+	src:
+		local("Menlo Regular"),
+		url(./Menlo-Regular.woff) format("woff");
 }
 
 @font-face {
-    font-family: 'redacted';
-    font-style: normal;
-    font-weight: normal;
-    src: url(./redacted-regular.woff2) format('woff2'), url(./redacted-regular.woff) format('woff');
+	font-family: "redacted";
+	font-style: normal;
+	font-weight: normal;
+	src:
+		url(./redacted-regular.woff2) format("woff2"),
+		url(./redacted-regular.woff) format("woff");
 }
 
 .font-mono {
-    font-family: 'Menlo Regular', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
-        'Courier New', monospace;
+	font-family: "Menlo Regular", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 .font-sans {
-    font-family: 'Space Grotesk Frontify', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI',
-        Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+	font-family:
+		"Space Grotesk Frontify", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+		Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
 }

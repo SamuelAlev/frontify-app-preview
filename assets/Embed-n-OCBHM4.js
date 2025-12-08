@@ -1,0 +1,2 @@
+import{u as o,c,r as d,j as e}from"./index-D7o63Lyp.js";import{u as m,V as n,C as l}from"./ViewEditToggle--C4TE-FQ.js";const f=()=>{const{setState:a,setCustomFields:r}=m(),s=o(),[t]=c();return d.useEffect(()=>{r(s.customFields),a(s.state)},[s,r,a]),e.jsxs("div",{className:"h-screen select-none flex flex-col",children:[!t.has("readonly")&&e.jsx("div",{className:"flex gap-4 items-center p-2 mb-2 border-b-1 border-b-[#f1f1f1]",children:e.jsx(n,{})}),e.jsx("div",{className:"p-2",children:e.jsx(l,{})})]})};export{f as Embed};
+//# sourceMappingURL=Embed-n-OCBHM4.js.map
